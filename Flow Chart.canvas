@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"01 Starting off.md","id":"5d14e03998b5825d","x":-8000,"y":-2760,"width":600,"height":760},
+		{"type":"file","file":"02 Firing up project.md","id":"be47d0a0e984bdde","x":-7320,"y":-2760,"width":560,"height":760},
+		{"type":"file","file":"03 Home Screen Product Listing.md","id":"5211af61b0efd362","x":-6680,"y":-2760,"width":560,"height":760},
+		{"type":"file","file":"04 Creating Rating Component.md","id":"100d778b1e73e39f","x":-6040,"y":-2760,"width":560,"height":760},
+		{"type":"file","file":"05 Implementing React Router.md","id":"c2f69b98827da63a","x":-5400,"y":-2760,"width":640,"height":760},
+		{"id":"225107063f0037af","x":-4640,"y":-2760,"width":640,"height":760,"type":"file","file":"06 Creating Product Screen.md"}
+	],
+	"edges":[
+		{"id":"db08bb6922c9bdb8","fromNode":"5d14e03998b5825d","fromSide":"right","toNode":"be47d0a0e984bdde","toSide":"left"},
+		{"id":"6b242a1a505b9311","fromNode":"be47d0a0e984bdde","fromSide":"right","toNode":"5211af61b0efd362","toSide":"left"},
+		{"id":"843d2f1767d681c5","fromNode":"5211af61b0efd362","fromSide":"right","toNode":"100d778b1e73e39f","toSide":"left"},
+		{"id":"27c327fb74ca833c","fromNode":"100d778b1e73e39f","fromSide":"right","toNode":"c2f69b98827da63a","toSide":"left"},
+		{"id":"0b77f27edf4e7a62","fromNode":"c2f69b98827da63a","fromSide":"right","toNode":"225107063f0037af","toSide":"left"}
+	]
+}
