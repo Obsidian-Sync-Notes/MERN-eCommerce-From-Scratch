@@ -20,3 +20,6 @@ This will make the messgaes in console appears in colors.
 
 
 Here is next step [[15 Modeling our data]]
+
+
+

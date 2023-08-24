@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3beb4ed2e163e542",
+        "id": "2bf7afa2340f2ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d4b6f89251f273",
+            "id": "934eb0ee39fc21f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Adding Colors to Console (Optional).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adding Colors to Console (Optional).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adding Colors to Console (Optional).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adding Colors to Console (Optional).md"
+              }
             }
           },
           {
@@ -156,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7d4b6f89251f273",
+  "active": "934eb0ee39fc21f6",
   "lastOpenFiles": [
     "12 ES Modules in NodeJS.md",
     "11 Environment Variables.md",
