@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "6ad35acb5face60d",
+    "id": "d78b7e8b5cb6e2e1",
     "type": "split",
     "children": [
       {
-        "id": "2bf7afa2340f2ef3",
+        "id": "2edbfe15cfba2aba",
         "type": "tabs",
         "children": [
           {
-            "id": "934eb0ee39fc21f6",
+            "id": "d537d56088a74ed5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adding Colors to Console (Optional).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "62db9189af8e5449",
+    "id": "ecb33c03ef3e5bb6",
     "type": "split",
     "children": [
       {
-        "id": "f6dc961113560aea",
+        "id": "bba9ffdaba78fe5b",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc38883f6f4a8a9",
+            "id": "30d1c44ebbe90c15",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "ceccea126a7b3e79",
+            "id": "9799d0e29b667ed9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "6cdba50e2608ae0d",
+            "id": "859861a688ad5618",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5004348754883
+    "width": 311.5004348754883
   },
   "right": {
-    "id": "724c2e3055679add",
+    "id": "988ca79eebf2b555",
     "type": "split",
     "children": [
       {
-        "id": "8d6b75374d2caeed",
+        "id": "c6b3f27a5b67c4b9",
         "type": "tabs",
         "children": [
           {
-            "id": "452ee20f1b517268",
+            "id": "9580966eb2de603f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adding Colors to Console (Optional).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "620c48d8b8cb9fea",
+            "id": "969152ff30f22ee4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adding Colors to Console (Optional).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1d2046bdf969f3ac",
+            "id": "af71e9fae1b6a882",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,28 +114,10 @@
             }
           },
           {
-            "id": "68eebea7898fc152",
+            "id": "55e50f1b84171b87",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Adding Colors to Console (Optional).md"
-              }
-            }
-          },
-          {
-            "id": "367288c5f31e8f9a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "84eff1e694b49304",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
@@ -159,52 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "934eb0ee39fc21f6",
-  "lastOpenFiles": [
-    "12 ES Modules in NodeJS.md",
-    "11 Environment Variables.md",
-    "10 Nodemon and Concurrently Setup.md",
-    "09 Fetching Data in React.md",
-    "07 Frontend Backend Workflow.md",
-    "45 Update User Profile.md",
-    "Untitled.canvas",
-    "44 Profile Screen & Get User Details.md",
-    "43 Update Profile Endpoint.md",
-    "42 User Register Reducer, Action & Screen.md",
-    "41 Show User in Navbar & Logout.md",
-    "28 Cart Reducer & Add to Cart Action.md",
-    "26 Product Details Reducer & Action.md",
-    "23 Product List Reducers & Action.md",
-    "39 User Login Reducer & Action.md",
-    "40 User Login Screen & Functionality.md",
-    "29 Add to Cart Functionality.md",
-    "30 Cart Screen UI.md",
-    "31 Remove Items from Cart.md",
-    "38 User Registration & Password Encryption.md",
-    "37 Saving the token in Postman.md",
-    "Flow Chart.canvas",
-    "Excalidraw/Drawing 2023-08-17 00.27.39.excalidraw.md",
-    "Excalidraw",
-    "05 Implementing React Router.md",
-    "04 Creating Rating Component.md",
-    "03 Home Screen Product Listing.md",
-    "02 Firing up project.md",
-    "01 Starting off.md",
-    "images/Pasted image 20230816105914.png",
-    "images/Pasted image 20230816210425.png",
-    "images/Pasted image 20230816210349.png",
-    "images/Pasted image 20230816210307.png",
-    "images/Pasted image 20230816210130.png",
-    "images/Pasted image 20230816210032.png",
-    "images/Pasted image 20230816205903.png",
-    "images/Pasted image 20230816205820.png",
-    "images/Pasted image 20230816205649.png",
-    "images/Pasted image 20230816205504.png",
-    "images"
-  ]
+  "active": "d537d56088a74ed5",
+  "lastOpenFiles": []
 }
