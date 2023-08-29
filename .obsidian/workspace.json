@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2edbfe15cfba2aba",
+        "id": "67df9880ada28c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "d537d56088a74ed5",
+            "id": "4c8bed94a53de7b2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d537d56088a74ed5",
-  "lastOpenFiles": []
+  "active": "4c8bed94a53de7b2",
+  "lastOpenFiles": [
+    "38 User Registration & Password Encryption.md",
+    "Flow Chart.canvas"
+  ]
 }
